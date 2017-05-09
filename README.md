@@ -1,2 +1,1 @@
-# programmer-interview
-programmer interview
+This repository is about programmer interview. Please see the Wiki.
