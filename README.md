@@ -1,1 +1,5 @@
-This repository is about programmer interview. Please see the [Wiki](https://github.com/HwangNara/programmer-interview/wiki).
+This repository is about programmer interview. 
+
+# Programmer Interview
+
+* [Java programmer interview](https://github.com/HwangNara/programmer-interview/java)
